@@ -1,13 +1,17 @@
 
 body{
     background-color: #849aa8;
-    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    background-image: url("./images/transparent\ background\ pattern\ cubes.png");
     text-align: center;
     width: 100%;
 	max-width: 1024px;
     margin: 0 auto;
     color: #1a001a;
     }
+
+#myHeader{
+    color: #330033;
+    }   
 
 .logo{
     text-align: center;
